@@ -1,0 +1,138 @@
+The Innovators;Walter Isaacson
+Steve Jobs;Walter Isaacson
+Elon Musk;Ashlee Vance
+The Lean Startup;Eric Ries
+Zero to One;Peter Thiel
+The Phoenix Project;Gene Kim
+The Unicorn Project;Gene Kim
+Hooked;Nir Eyal
+The Hard Thing About Hard Things;Ben Horowitz
+Crossing the Chasm;Geoffrey A. Moore
+Clean Code;Robert C. Martin
+Clean Architecture;Robert C. Martin
+Code Complete;Steve McConnell
+Refactoring;Martin Fowler
+Design Patterns;Erich Gamma
+You Don't Know JS;Kyle Simpson
+JavaScript: The Good Parts;Douglas Crockford
+Don't Make Me Think;Steve Krug
+The Pragmatic Programmer;Andrew Hunt
+Soft Skills;John Sonmez
+Continuous Delivery;Jez Humble
+Accelerate;Nicole Forsgren
+The Mythical Man-Month;Frederick P. Brooks Jr.
+Peopleware;Tom DeMarco
+Drive;Daniel H. Pink
+The Art of Computer Programming;Donald E. Knuth
+Introduction to Algorithms;Thomas H. Cormen
+Algorithms to Live By;Brian Christian
+Deep Learning;Ian Goodfellow
+Artificial Intelligence: A Modern Approach;Stuart Russell
+Superintelligence;Nick Bostrom
+Life 3.0;Max Tegmark
+How to Create a Mind;Ray Kurzweil
+The Singularity Is Near;Ray Kurzweil
+The Master Algorithm;Pedro Domingos
+Weapons of Math Destruction;Cathy O'Neil
+Big Data;Viktor Mayer-Schönberger
+Data Science for Business;Foster Provost
+The Data Warehouse Toolkit;Ralph Kimball
+Python Crash Course;Eric Matthes
+Fluent Python;Luciano Ramalho
+Automate the Boring Stuff with Python;Al Sweigart
+Eloquent JavaScript;Marijn Haverbeke
+Cracking the Coding Interview;Gayle Laakmann McDowell
+Grokking Algorithms;Aditya Bhargava
+Compilers: Principles, Techniques, and Tools;Alfred V. Aho
+Structure and Interpretation of Computer Programs;Harold Abelson
+Operating Systems: Three Easy Pieces;Remzi H. Arpaci-Dusseau
+Computer Networking: A Top-Down Approach;James Kurose
+Modern Operating Systems;Andrew S. Tanenbaum
+Hacking: The Art of Exploitation;Jon Erickson
+The Art of Deception;Kevin D. Mitnick
+Ghost in the Wires;Kevin D. Mitnick
+Cybersecurity and Cyberwar;P.W. Singer
+The Code Book;Simon Singh
+Blockchain Revolution;Don Tapscott
+Mastering Bitcoin;Andreas M. Antonopoulos
+Bitcoin Whitepaper;Satoshi Nakamoto
+The Internet of Money;Andreas M. Antonopoulos
+The Big Nine;Amy Webb
+AI Superpowers;Kai-Fu Lee
+Hello World;Hannah Fry
+The Age of Surveillance Capitalism;Shoshana Zuboff
+The Shallows;Nicholas Carr
+Reclaiming Conversation;Sherry Turkle
+Alone Together;Sherry Turkle
+Digital Minimalism;Cal Newport
+Deep Work;Cal Newport
+So Good They Can't Ignore You;Cal Newport
+The Filter Bubble;Eli Pariser
+Technopoly;Neil Postman
+Amusing Ourselves to Death;Neil Postman
+Code: The Hidden Language of Computer Hardware and Software;Charles Petzold
+The Soul of a New Machine;Tracy Kidder
+The Chip;T.R. Reid
+In the Plex;Steven Levy
+Hackers;Steven Levy
+Crypto;Steven Levy
+The Perfect Weapon;David E. Sanger
+Sandworm;Andy Greenberg
+This Is How They Tell Me the World Ends;Nicole Perlroth
+Future Crimes;Marc Goodman
+The Dark Net;Jamie Bartlett
+Radical Technologies;Adam Greenfield
+The Second Machine Age;Erik Brynjolfsson
+Machine, Platform, Crowd;Andrew McAfee
+The Inevitable;Kevin Kelly
+What Technology Wants;Kevin Kelly
+Out of Control;Kevin Kelly
+Abundance;Peter H. Diamandis
+Bold;Peter H. Diamandis
+The Fourth Industrial Revolution;Klaus Schwab
+The Singularity Trap;Federico Pistono
+Who Owns the Future?;Jaron Lanier
+Ten Arguments for Deleting Your Social Media Accounts Right Now;Jaron Lanier
+You Are Not a Gadget;Jaron Lanier
+Reality+;David J. Chalmers
+The Metaverse;Matthew Ball
+The Spatial Web;Gabriel René
+Augmented Human;Helen Papagiannis
+Virtual Reality;Samuel Greengard
+Learning Web Design;Jennifer Niederst Robbins
+HTML and CSS: Design and Build Websites;Jon Duckett
+JavaScript and JQuery;Jon Duckett
+Learning Python;Mark Lutz
+Python for Data Analysis;Wes McKinney
+Hands-On Machine Learning with Scikit-Learn and TensorFlow;Aurélien Géron
+Deep Learning with Python;François Chollet
+Machine Learning Yearning;Andrew Ng
+AI 2041;Kai-Fu Lee
+Human Compatible;Stuart Russell
+Reinforcement Learning: An Introduction;Richard S. Sutton
+Artificial Intelligence: Foundations of Computational Agents;David L. Poole
+Cognitive Surplus;Clay Shirky
+Here Comes Everybody;Clay Shirky
+The Wisdom of Crowds;James Surowiecki
+The Black Swan;Nassim Nicholas Taleb
+Antifragile;Nassim Nicholas Taleb
+Thinking, Fast and Slow;Daniel Kahneman
+Blink;Malcolm Gladwell
+Outliers;Malcolm Gladwell
+The Tipping Point;Malcolm Gladwell
+Freakonomics;Steven D. Levitt
+The Signal and the Noise;Nate Silver
+Everything is Obvious;Duncan J. Watts
+The Information;James Gleick
+Tubes: A Journey to the Center of the Internet;Andrew Blum
+The Victorian Internet;Tom Standage
+The Master Switch;Tim Wu
+The Attention Merchants;Tim Wu
+Data and Goliath;Bruce Schneier
+Click Here to Kill Everybody;Bruce Schneier
+The Code Breaker;Walter Isaacson
+Ada's Algorithm;James Essinger
+Broad Band;Claire L. Evans
+Hidden Figures;Margot Lee Shetterly
+The Woman Who Smashed Codes;Jason Fagone
+Girl Decoded;Rana el Kaliouby
